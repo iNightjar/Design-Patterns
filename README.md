@@ -1,5 +1,7 @@
 ### Design Patterns In JavaSE.
 
+<img src="https://github.com/iNightjar/Design-Patterns/blob/master/images/designPatterns.png" align="center" width=300px />
+
 #### ` Creational Design Patterns` 
 
 * [Abstract Factory Pattern](https://github.com/iNightjar/Design-Patterns/tree/master/src/creationalPatterns/abstractFactory)
